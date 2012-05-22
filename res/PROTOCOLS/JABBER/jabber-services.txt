@@ -1,0 +1,6 @@
+bessonnica@conference.jabber.ru=Бессоница
+tunguska@conference.jabber.ru=Tunguska EMS
+inoi@conference.xmpp.ru=inoi
+otaku@conference.jabber.ru=otaku
+conference.jabber.ru=Conferences on jabber.ru
+conference.xmpp.ru=Conferences on xmpp.ru

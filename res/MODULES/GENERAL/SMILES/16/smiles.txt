@@ -1,0 +1,92 @@
+28
+0  Улыбаюсь        :-) , :) , =) , :smile:
+1  Расcтроен       :-( , :( , +( , =( , :sad:
+2  Подмигиваю      ;-) , ;) , ^_~ , :wink:
+3  Ржу             :-D , :D , +D , =D , :biggrin: , *BIGGRIN* , *LOL* , *biggrin* , *lol* , :lol:
+4  Угораю          *ROFL* , *rofl* , *ROTFL* , :ROFL: , :rofl: , ROFL , ROFTL , rofl
+5  Язычог          :-P , :P , :p , :-p , =P , =p
+6  Смущаюсь        :-[ , :[ , (e) , (E) , :') , :'-) , =') , ;'> , ;-. , :blush:
+7  "В шоке"        =-O , =O , =-o , =0 , O_O , O_o , o_O , O_0 , o_0 , 0_O , 0_o , :-O
+8  "Не тупи..."    :-| , :| , :ermm: , *ermm*
+9  "В ауте..."     %) , %-) , :-$ , :$ , :wacko: , :WACKO: , *WACKO* , 8-|
+10 Плачу           :'( , :'-( , :"( , ;-( , ;( , ='( , *CRY*
+11 Ангелочек       O:-) , O:) , O+) , O=) , 0:-) , 0:) , 0+) , 0=) , (A) , (a)
+12 Сержусь         >:o, >:O, >+O , >:o , >+o , >=O , >=o , :-@ , :angry: , *ANGRY* , *angry*
+13 Дьявольски      ]:-> , }:-> , ]:> , }:> , >:-] , >:] , (6) , *DIABLO* , *diablo*
+14 КГБ             8-) , 8) , B-) , B)
+15 Пиво     *DRINK* , *BEER* , *drink* , *beer*
+16 Ништяк   *THUMBS_UP* , *THUMBSUP* , *GOOD* , (y) , (Y) , *thumbs_up* , *thumbsup* , *good* , :THUMBS UP: , *THUMBS UP* , :yes:
+17 ХЗ       *DONT_KNOW* , *DONT KNOW* , *UNKNOWN* , *dont_know* , *dontknow* , *unknown* , :dntknw: , *dntknw*
+18 Радуюсь  *YAHOO* , *yahoo*
+19 Танцую   *DANCE* , *dance*
+20 Взбешен  :-@ , *MAT* , *mat* , *furious* , *MAD* , *mad* , :MAD: , :mad: , :MAT: , :mat: , :@ , >:o , ]>[ , ];-#
+21 Хватит   *STOP* , *stop*
+22 Понты    \m/ , *COOLBOY* , *ROCK* , *PUNK* , *SYSTEM* , :cool: , :yeah:
+23 Фтопку   *DOWN* , *THUMB_DOWN* , *THUMB DOWN* , *THUMBS_DOWN* , *THUMBS DOWN* , *down* , *thumb_down* , *thumb down* , *thumbs_down* , *thumbs down* , :THUMBS DOWN:
+24 Неа             *NO*, *no*
+25 Гримаса         :-\ , :-/ , =/ , =\ , :\ , *HM* , *hm* , :HM: , :hm: , :-[]
+26 "Спать охота"   *TIRED* , *BOREDOM* , |-0 , :boredom: , *tired* , *boredom*
+27 Восторг         *AAA* , 8-D , 8-P
+28 Секрет          :-X , :-x , X: , x: , :-# , :# , *SECRET* , :secret: , *secret* , :SECRET: , :hidden:
+29 Агрессивен      *agression* , *AGRESSION*
+30 Победа          *V* , *VICTORY* , *v* , *victory* , :VICTORY:
+31 Браво           *BRAVO* , :BRAVO: , :bravo: , :clapping: , *CLAPPING* , *bravo* , *clapping*
+32 ДжоКингли       *JOKINGLY* , 8P , 8p , :JOKINGLY:
+33 Сарказм         *SARCASTIC* , *sarcastic*
+34 Крэйзи               *CRAZY* , :crazy: , *crazy*
+35 "Поймал поцелуй"     *KISSED* , *kissed*
+36 "Воздушный поцелуй"  *KISSING* , *kissing*
+37 "Держи цветочег"     @}->-- , @}-:-- , @>}--, (F) , (f) , *BOUQUET* , @};-
+38 "Возьми моё сердце"  *GIVE_HEART* , *give_heart*
+39 Любовь               *IN_LOVE* , *INLOVE*
+40 Поцелуй              :-* , :* , :-{} , :{} , +{} , ={} , ^.^ , :kiss: , *KISS* 
+41 Флирт                *FLIRT* , *flirt*
+42 "Прости меня"        *SORRY* , :sorry: , *sorry*
+43 "Всегда готов"       *PIONEER*, *pioneer* , *pioneer smoke*
+44 Король               *KING* , *CROWN* , *king* , *crown*
+45 Перекур              *SMOKE* , *SMOKING* , *smoke* , *smoking*
+46 Бомба                @=
+47 "Спасите!.."         *HELP* , *SOS* , *help* , *sos*
+48 "Бьюсь об стену"     *WALL* , *bash* , *stupid* , :WALL: 
+49 Отдыхаю              *BEACH* , *beach*
+50 Ай-яй-яй             ;D , *ACUTE* , *acute*
+51 Фонарь      *VAVA* , *BLACK_EYE* , *BLACKEYE* , *vava* , *black_eye* , *blackeye* , *kicked* , :kicked: , :-E , *kick*
+52 Привед      *HI* , *hi* , :HI: , *PREVED* , *PRIVET* , *HELLO* , *hello* , :hello: , :HELLO: , :bye: , :hi:
+53 Пока        *BYE* , *bye*
+54 Музычка     [:-} , [:} , [:-) , [:) , :music: , *MUSIC*
+55 Повесился   X-) , X) , X-.
+56 OK          *OK* , *ok*
+57 Пасиб       *THANK* , *THANKS* , *thank* , *thanks*
+58 Пардон          *PARDON* , *pardon* , =] , :PARDON: , :pardon:
+59 "Читай..."      *LAW* , *RTFM* , *KICK* , *rtfm* , *law* , :RTFM:
+60 Злорадный       *SPITEFUL* , *spiteful*
+61 Тарзаню         *SHOUT*, *shout*
+62 "Вай страашно"  *SCARE* , *SCARED* , *scare* , *scared* , *wassat*
+63 "Ща блювану"    :-! , :! , :-~ , ;-~ , :(~ , +(~ , =(~ , :bad: , *SICK* , :-#
+64 Сплю            *lazy* , *LAZY* , *ASLEEP* , *SLEEPING* , *SLEEPY* , *asleep* , *sleeping* , *sleepy*
+65 Истерика        *hysterics* , *hysteric* , *HYSTERIC* , *HYSTERICS* , =:OO
+66 Ниндзя          *NINJA* , *ninja* , [:|] , |-) , :NINJA:
+67 Пятница         *WASSUP* , *SUP* , *MAMBA* , :MAMBA: , *wassup* , *sup* , *mamba* 
+68 "Ковыряю в носу"         *nose*
+69 Свистю          *whistle* , :-" , *WHISTLE*
+70 Влюбленная      *LOVEGIRL*
+71 Влюбленный           *LOVEMAN* , *loveman* , :IN LOVE:
+72 "В экстазе"          *man_in_love*
+73 "Грязные мыслишки"   ]:-) , }:-) , ]:) , }:) , >:-) , >:)
+74 Жопа             (_|_) , (_I_) , (_._) 
+75 Застрелился          *russian roulette* , *SHOT* , *shot*
+76 Викинг               *viking* , *dwarf* , *DWARF*
+77 "Утренний кофе"      *morning* , *COFFEE* , *coffe*
+78 Поцелуи              *KISSES* , *KISS4* , *ОБНИМАЕТ* , *kisses* , *kiss4*
+79 Хитрец          :-> , *:->* , :> , *хитрый*
+80 Дитё            *baby* , *varjaga*
+81 Череп           *skull* , *DEATH*, *death* , *SKULL* , 8-X , 8-x , :SKULL:
+82 Фак             *FUCK* , *fuck* , *FUCK YOU* , *FUCKOFF* , :FUCK:
+83 Фига            *figu* , *FIGA* , *figa* , :FIGA:
+85 Рукалицо        *facepalm* , :facepalm: , //_-) , -_\\
+86 Зашторой        *snoozer* , :snoozer: , *ZAWTOROJ*
+87 Супермен        *superman* , :superman:
+88 Попкорн         *popcorn* , :popcorn:
+89 Йоу             *Yo* , :Yo: , *yu* , :yu:
+90 Гангстер        *vinsent* , :vinsent:
+91 Пишу            *write* , :write: , *WRITE*

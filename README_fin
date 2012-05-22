@@ -1,0 +1,43 @@
+                            Jimm - Mobile Messaging
+                                  fin-jabber
+===============================================================================
+Recommended resources
+=====================
+"необходимый софт"
+1 качаем  Java Development Kit (JDK) комплект разработчика приложений на языке Java http://java.sun.com/javase/downloads/index.jsp
+2 качаем Wireless Toolkit Kit (WTK) java-эмулятор http://java.sun.com/products/sjwtoolkit/
+3 качаем Apache Ant утилита для сборки программ из исходного кода http://ant.apache.org/
+4 качаем Proguard обфускатор для уменьшения размера результирующего jar-файла http://proguard.sourceforge.net/
+5 качаем TortoiseSVN приложение для работы с SVN http://tortoisesvn.net/downloads
+1, 2 и 5 устанавливаем, 3 и 4 кладем в удобную для нас папку.
+
+================================
+"подготовка исходников"
+после того как все установили и положили делаем правый клик по «мой компьютер», в контекстном меню выбираем пункт «свойства», «дополнительно», «параметры среды», в «системные переменные» ищем переменную PATH (могут быть и такие названия path или Path), нажимаем «изменить», в «значение переменной» ставим точку с запятой ";" и дописываем путь к Apache Ant (до директории bin), сохраняем.
+возможно так же понадобится положить ant-contrib.jar в папку lib Apache Ant'а, взять его можно прямо в исходниках (\util\ant-contrib\ant-contrib.jar)
+
+Находим файл build.xml, открываем его блокнотом и ищем следующие строки:
+   <property name="DEFAULT/midp"      location="здесь пишем путь к нашему WTK" />
+   <property name="MIDP2/midp"        location="здесь пишем путь к нашему WTK" />
+   <property name="RIM/midp"          location="CHANGE ME" />
+   <property name="SIEMENS1/midp"     location="CHANGE ME" />
+   <property name="SIEMENS2/midp"     location="CHANGE ME" />
+   <property name="MOTOROLA/midp"     location="CHANGE ME" />
+чуть ниже ищем еще эти:
+   <property name="proguard"          value="здесь пишем путь к нашему proguard"    />
+   <property name="proguard/lib"      value="${proguard}/lib/proguard.jar"      />
+
+идем в папку config (fj\config), отрываем там блокнотом файл sysdirs.properties и редактируем:
+DEFAULT/midp= здесь пишем путь к нашему WTK
+MIDP2/midp= здесь пишем путь к нашему WTK
+RIM/midp=CHANGE ME
+SIEMENS1/midp=CHANGE ME
+SIEMENS2/midp=CHANGE ME
+MOTOROLA/midp=CHANGE ME
+чуть ниже ищем :
+proguard=здесь пишем путь к нашему proguard
+"возможно так же понадобиться"
+-создать переменную JAVA_HOME, в системных переменных, в переменной прописать путь к JDK (просто к директории jdk, не к bin как в случае с ant'ом)
+================================
+"сборка"
+теперь возвращаемся к build.xml, левый клик на нем, «открыть с помощю», «выбрать программу», «обзор», идем в папку WINDOWS\system32 и ищем там cmd.exe им и ставим открыть, откроется консоль где  уже будет прописан путь к нашей папке, пишем ant dist-all (команда для сборки) и ждем окончания процесса.

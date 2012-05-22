@@ -1,0 +1,12 @@
+1. Телеф. сравочник=native:CNCT_PREFRDBOOK
+2. Спис. вызовов=native:RECD_RECORDMENU
+3. Интернет=native:ELSE_SUFFUNUMNU
+4. Камера=native:ELSE_INTRCAMERA
+5. Сообщения=native:MESG_MESSGEMENU
+6. Органайзер=native:ORGZ_ORGANIZMNU
+7. Еще=native:ELSE_EXTRASMENU
+8. Мои файлы=native:FLSH_MYOWNSTUFF
+9. Настройки=native:STUP_SETPUPMENU
+*  Card-explorer=native:FLSH_FLEXPLORER
+#  Мое меню=native:ELSE_STR_MYMENU
+Злобная рекламма=http://jimm.net.ru/index.xhtml

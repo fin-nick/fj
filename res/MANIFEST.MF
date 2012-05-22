@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Created-By: Jimm Project
+MIDlet-Name: ###MIDLET-NAME###
+MIDlet-Version: ###VERSION-JAVA###
+MIDlet-Vendor: Jimm Project
+MIDlet-Jar-Size: ###SIZE###
+MIDlet-Jar-URL: ###MIDLET-NAME###.jar
+MIDlet-Icon: icon.png
+MicroEdition-Profile: ###MIDP-PROFILE###
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Description: J2ME IM-client
+MIDlet-Info-URL: http://jabga.ru/
+MIDlet-1: ###MIDLET-NAME###,/icon.png,jimm.Jimm
+Jimm-Version: ###VERSION###
+Jimm-Date: ###DATE###
+Background: True
+FlipInsensitive: True
+Nokia-MIDlet-On-Screen-Keypad: no
+Nokia-MIDlet-Category: Application
+Nokia-MIDlet-No-Exit: true
+LGE-MIDlet-On-Screen-Keypad: no
+LGE-MIDlet-Allowed-background: yes
+LGE-MIDlet-Exit: minimize
+T: Nokia-UI-Enhancement: PopUpTextBox
+Y: MIDlet-Touch-Support: true
