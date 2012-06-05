@@ -22,7 +22,7 @@ version/java=0.6.4
 # *******************************************************************
 # Version number of the build. The value can be in any format (e.g.
 # 0.2cvs).
-version/jimm=${version/java}fin
+version/jimm=${version/java}fin http://jabga.ru
 
 # *******************************************************************
 # Midlet name
