@@ -1,92 +1,92 @@
-28
-0  ”Î˚·‡˛Ò¸        :-) , :) , =) , :smile:
-1  –‡ÒcÚÓÂÌ       :-( , :( , +( , =( , :sad:
-2  œÓ‰ÏË„Ë‚‡˛      ;-) , ;) , ^_~ , :wink:
-3  –ÊÛ             :-D , :D , +D , =D , :biggrin: , *BIGGRIN* , *LOL* , *biggrin* , *lol* , :lol:
-4  ”„Ó‡˛          *ROFL* , *rofl* , *ROTFL* , :ROFL: , :rofl: , ROFL , ROFTL , rofl
-5  ﬂÁ˚˜Ó„          :-P , :P , :p , :-p , =P , =p
-6  —ÏÛ˘‡˛Ò¸        :-[ , :[ , (e) , (E) , :') , :'-) , =') , ;'> , ;-. , :blush:
-7  "¬ ¯ÓÍÂ"        =-O , =O , =-o , =0 , O_O , O_o , o_O , O_0 , o_0 , 0_O , 0_o , :-O
-8  "ÕÂ ÚÛÔË..."    :-| , :| , :ermm: , *ermm*
-9  "¬ ‡ÛÚÂ..."     %) , %-) , :-$ , :$ , :wacko: , :WACKO: , *WACKO* , 8-|
-10 œÎ‡˜Û           :'( , :'-( , :"( , ;-( , ;( , ='( , *CRY*
-11 ¿Ì„ÂÎÓ˜ÂÍ       O:-) , O:) , O+) , O=) , 0:-) , 0:) , 0+) , 0=) , (A) , (a)
-12 —ÂÊÛÒ¸         >:o, >:O, >+O , >:o , >+o , >=O , >=o , :-@ , :angry: , *ANGRY* , *angry*
-13 ƒ¸ˇ‚ÓÎ¸ÒÍË      ]:-> , }:-> , ]:> , }:> , >:-] , >:] , (6) , *DIABLO* , *diablo*
-14  √¡             8-) , 8) , B-) , B)
-15 œË‚Ó     *DRINK* , *BEER* , *drink* , *beer*
-16 ÕË¯ÚˇÍ   *THUMBS_UP* , *THUMBSUP* , *GOOD* , (y) , (Y) , *thumbs_up* , *thumbsup* , *good* , :THUMBS UP: , *THUMBS UP* , :yes:
-17 ’«       *DONT_KNOW* , *DONT KNOW* , *UNKNOWN* , *dont_know* , *dontknow* , *unknown* , :dntknw: , *dntknw*
-18 –‡‰Û˛Ò¸  *YAHOO* , *yahoo*
-19 “‡ÌˆÛ˛   *DANCE* , *dance*
-20 ¬Á·Â¯ÂÌ  :-@ , *MAT* , *mat* , *furious* , *MAD* , *mad* , :MAD: , :mad: , :MAT: , :mat: , :@ , >:o , ]>[ , ];-#
-21 ’‚‡ÚËÚ   *STOP* , *stop*
-22 œÓÌÚ˚    \m/ , *COOLBOY* , *ROCK* , *PUNK* , *SYSTEM* , :cool: , :yeah:
-23 ‘ÚÓÔÍÛ   *DOWN* , *THUMB_DOWN* , *THUMB DOWN* , *THUMBS_DOWN* , *THUMBS DOWN* , *down* , *thumb_down* , *thumb down* , *thumbs_down* , *thumbs down* , :THUMBS DOWN:
-24 ÕÂ‡             *NO*, *no*
-25 √ËÏ‡Ò‡         :-\ , :-/ , =/ , =\ , :\ , *HM* , *hm* , :HM: , :hm: , :-[]
-26 "—Ô‡Ú¸ ÓıÓÚ‡"   *TIRED* , *BOREDOM* , |-0 , :boredom: , *tired* , *boredom*
-27 ¬ÓÒÚÓ„         *AAA* , 8-D , 8-P
-28 —ÂÍÂÚ          :-X , :-x , X: , x: , :-# , :# , *SECRET* , :secret: , *secret* , :SECRET: , :hidden:
-29 ¿„ÂÒÒË‚ÂÌ      *agression* , *AGRESSION*
-30 œÓ·Â‰‡          *V* , *VICTORY* , *v* , *victory* , :VICTORY:
-31 ¡‡‚Ó           *BRAVO* , :BRAVO: , :bravo: , :clapping: , *CLAPPING* , *bravo* , *clapping*
-32 ƒÊÓ ËÌ„ÎË       *JOKINGLY* , 8P , 8p , :JOKINGLY:
-33 —‡Í‡ÁÏ         *SARCASTIC* , *sarcastic*
-34  ˝ÈÁË               *CRAZY* , :crazy: , *crazy*
-35 "œÓÈÏ‡Î ÔÓˆÂÎÛÈ"     *KISSED* , *kissed*
-36 "¬ÓÁ‰Û¯Ì˚È ÔÓˆÂÎÛÈ"  *KISSING* , *kissing*
-37 "ƒÂÊË ˆ‚ÂÚÓ˜Â„"     @}->-- , @}-:-- , @>}--, (F) , (f) , *BOUQUET* , @};-
-38 "¬ÓÁ¸ÏË ÏÓ∏ ÒÂ‰ˆÂ"  *GIVE_HEART* , *give_heart*
-39 À˛·Ó‚¸               *IN_LOVE* , *INLOVE*
-40 œÓˆÂÎÛÈ              :-* , :* , :-{} , :{} , +{} , ={} , ^.^ , :kiss: , *KISS* 
-41 ‘ÎËÚ                *FLIRT* , *flirt*
-42 "œÓÒÚË ÏÂÌˇ"        *SORRY* , :sorry: , *sorry*
-43 "¬ÒÂ„‰‡ „ÓÚÓ‚"       *PIONEER*, *pioneer* , *pioneer smoke*
-44  ÓÓÎ¸               *KING* , *CROWN* , *king* , *crown*
-45 œÂÂÍÛ              *SMOKE* , *SMOKING* , *smoke* , *smoking*
-46 ¡ÓÏ·‡                @=
-47 "—Ô‡ÒËÚÂ!.."         *HELP* , *SOS* , *help* , *sos*
-48 "¡¸˛Ò¸ Ó· ÒÚÂÌÛ"     *WALL* , *bash* , *stupid* , :WALL: 
-49 ŒÚ‰˚ı‡˛              *BEACH* , *beach*
-50 ¿È-ˇÈ-ˇÈ             ;D , *ACUTE* , *acute*
-51 ‘ÓÌ‡¸      *VAVA* , *BLACK_EYE* , *BLACKEYE* , *vava* , *black_eye* , *blackeye* , *kicked* , :kicked: , :-E , *kick*
-52 œË‚Â‰      *HI* , *hi* , :HI: , *PREVED* , *PRIVET* , *HELLO* , *hello* , :hello: , :HELLO: , :bye: , :hi:
-53 œÓÍ‡        *BYE* , *bye*
-54 ÃÛÁ˚˜Í‡     [:-} , [:} , [:-) , [:) , :music: , *MUSIC*
-55 œÓ‚ÂÒËÎÒˇ   X-) , X) , X-.
+Ôªø28
+0  –£–ª—ã–±–∞—é—Å—å        :-) , :) , =) , :smile:
+1  –†–∞—Åc—Ç—Ä–æ–µ–Ω       :-( , :( , +( , =( , :sad:
+2  –ü–æ–¥–º–∏–≥–∏–≤–∞—é      ;-) , ;) , ^_~ , :wink:
+3  –†–∂—É             :-D , :D , +D , =D , :biggrin: , *BIGGRIN* , *LOL* , *biggrin* , *lol* , :lol:
+4  –£–≥–æ—Ä–∞—é          *ROFL* , *rofl* , *ROTFL* , :ROFL: , :rofl: , ROFL , ROFTL , rofl
+5  –Ø–∑—ã—á–æ–≥          :-P , :P , :p , :-p , =P , =p
+6  –°–º—É—â–∞—é—Å—å        :-[ , :[ , (e) , (E) , :') , :'-) , =') , ;'> , ;-. , :blush:
+7  "–í —à–æ–∫–µ"        =-O , =O , =-o , =0 , O_O , O_o , o_O , O_0 , o_0 , 0_O , 0_o , :-O
+8  "–ù–µ —Ç—É–ø–∏..."    :-| , :| , :ermm: , *ermm*
+9  "–í –∞—É—Ç–µ..."     %) , %-) , :-$ , :$ , :wacko: , :WACKO: , *WACKO* , 8-|
+10 –ü–ª–∞—á—É           :'( , :'-( , :"( , ;-( , ;( , ='( , *CRY*
+11 –ê–Ω–≥–µ–ª–æ—á–µ–∫       O:-) , O:) , O+) , O=) , 0:-) , 0:) , 0+) , 0=) , (A) , (a)
+12 –°–µ—Ä–∂—É—Å—å         >:o, >:O, >+O , >:o , >+o , >=O , >=o , :-@ , :angry: , *ANGRY* , *angry*
+13 –î—å—è–≤–æ–ª—å—Å–∫–∏      ]:-> , }:-> , ]:> , }:> , >:-] , >:] , (6) , *DIABLO* , *diablo*
+14 –ö–ì–ë             8-) , 8) , B-) , B)
+15 –ü–∏–≤–æ     *DRINK* , *BEER* , *drink* , *beer*
+16 –ù–∏—à—Ç—è–∫   *THUMBS_UP* , *THUMBSUP* , *GOOD* , (y) , (Y) , *thumbs_up* , *thumbsup* , *good* , :THUMBS UP: , *THUMBS UP* , :yes:
+17 –•–ó       *DONT_KNOW* , *DONT KNOW* , *UNKNOWN* , *dont_know* , *dontknow* , *unknown* , :dntknw: , *dntknw*
+18 –†–∞–¥—É—é—Å—å  *YAHOO* , *yahoo*
+19 –¢–∞–Ω—Ü—É—é   *DANCE* , *dance*
+20 –í–∑–±–µ—à–µ–Ω  :-@ , *MAT* , *mat* , *furious* , *MAD* , *mad* , :MAD: , :mad: , :MAT: , :mat: , :@ , >:o , ]>[ , ];-#
+21 –•–≤–∞—Ç–∏—Ç   *STOP* , *stop*
+22 –ü–æ–Ω—Ç—ã    \m/ , *COOLBOY* , *ROCK* , *PUNK* , *SYSTEM* , :cool: , :yeah:
+23 –§—Ç–æ–ø–∫—É   *DOWN* , *THUMB_DOWN* , *THUMB DOWN* , *THUMBS_DOWN* , *THUMBS DOWN* , *down* , *thumb_down* , *thumb down* , *thumbs_down* , *thumbs down* , :THUMBS DOWN:
+24 –ù–µ–∞             *NO*, *no*
+25 –ì—Ä–∏–º–∞—Å–∞         :-\ , :-/ , =/ , =\ , :\ , *HM* , *hm* , :HM: , :hm: , :-[]
+26 "–°–ø–∞—Ç—å –æ—Ö–æ—Ç–∞"   *TIRED* , *BOREDOM* , |-0 , :boredom: , *tired* , *boredom*
+27 –í–æ—Å—Ç–æ—Ä–≥         *AAA* , 8-D , 8-P
+28 –°–µ–∫—Ä–µ—Ç          :-X , :-x , X: , x: , :-# , :# , *SECRET* , :secret: , *secret* , :SECRET: , :hidden:
+29 –ê–≥—Ä–µ—Å—Å–∏–≤–µ–Ω      *agression* , *AGRESSION*
+30 –ü–æ–±–µ–¥–∞          *V* , *VICTORY* , *v* , *victory* , :VICTORY:
+31 –ë—Ä–∞–≤–æ           *BRAVO* , :BRAVO: , :bravo: , :clapping: , *CLAPPING* , *bravo* , *clapping*
+32 –î–∂–æ–ö–∏–Ω–≥–ª–∏       *JOKINGLY* , 8P , 8p , :JOKINGLY:
+33 –°–∞—Ä–∫–∞–∑–º         *SARCASTIC* , *sarcastic*
+34 –ö—Ä—ç–π–∑–∏               *CRAZY* , :crazy: , *crazy*
+35 "–ü–æ–π–º–∞–ª –ø–æ—Ü–µ–ª—É–π"     *KISSED* , *kissed*
+36 "–í–æ–∑–¥—É—à–Ω—ã–π –ø–æ—Ü–µ–ª—É–π"  *KISSING* , *kissing*
+37 "–î–µ—Ä–∂–∏ —Ü–≤–µ—Ç–æ—á–µ–≥"     @}->-- , @}-:-- , @>}--, (F) , (f) , *BOUQUET* , @};-
+38 "–í–æ–∑—å–º–∏ –º–æ—ë —Å–µ—Ä–¥—Ü–µ"  *GIVE_HEART* , *give_heart*
+39 –õ—é–±–æ–≤—å               *IN_LOVE* , *INLOVE*
+40 –ü–æ—Ü–µ–ª—É–π              :-* , :* , :-{} , :{} , +{} , ={} , ^.^ , :kiss: , *KISS* 
+41 –§–ª–∏—Ä—Ç                *FLIRT* , *flirt*
+42 "–ü—Ä–æ—Å—Ç–∏ –º–µ–Ω—è"        *SORRY* , :sorry: , *sorry*
+43 "–í—Å–µ–≥–¥–∞ –≥–æ—Ç–æ–≤"       *PIONEER*, *pioneer* , *pioneer smoke*
+44 –ö–æ—Ä–æ–ª—å               *KING* , *CROWN* , *king* , *crown*
+45 –ü–µ—Ä–µ–∫—É—Ä              *SMOKE* , *SMOKING* , *smoke* , *smoking*
+46 –ë–æ–º–±–∞                @=
+47 "–°–ø–∞—Å–∏—Ç–µ!.."         *HELP* , *SOS* , *help* , *sos*
+48 "–ë—å—é—Å—å –æ–± —Å—Ç–µ–Ω—É"     *WALL* , *bash* , *stupid* , :WALL: 
+49 –û—Ç–¥—ã—Ö–∞—é              *BEACH* , *beach*
+50 –ê–π-—è–π-—è–π             ;D , *ACUTE* , *acute*
+51 –§–æ–Ω–∞—Ä—å      *VAVA* , *BLACK_EYE* , *BLACKEYE* , *vava* , *black_eye* , *blackeye* , *kicked* , :kicked: , :-E , *kick*
+52 –ü—Ä–∏–≤–µ–¥      *HI* , *hi* , :HI: , *PREVED* , *PRIVET* , *HELLO* , *hello* , :hello: , :HELLO: , :bye: , :hi:
+53 –ü–æ–∫–∞        *BYE* , *bye*
+54 –ú—É–∑—ã—á–∫–∞     [:-} , [:} , [:-) , [:) , :music: , *MUSIC*
+55 –ü–æ–≤–µ—Å–∏–ª—Å—è   X-) , X) , X-.
 56 OK          *OK* , *ok*
-57 œ‡ÒË·       *THANK* , *THANKS* , *thank* , *thanks*
-58 œ‡‰ÓÌ          *PARDON* , *pardon* , =] , :PARDON: , :pardon:
-59 "◊ËÚ‡È..."      *LAW* , *RTFM* , *KICK* , *rtfm* , *law* , :RTFM:
-60 «ÎÓ‡‰Ì˚È       *SPITEFUL* , *spiteful*
-61 “‡Á‡Ì˛         *SHOUT*, *shout*
-62 "¬‡È ÒÚ‡‡¯ÌÓ"  *SCARE* , *SCARED* , *scare* , *scared* , *wassat*
-63 "Ÿ‡ ·Î˛‚‡ÌÛ"    :-! , :! , :-~ , ;-~ , :(~ , +(~ , =(~ , :bad: , *SICK* , :-#
-64 —ÔÎ˛            *lazy* , *LAZY* , *ASLEEP* , *SLEEPING* , *SLEEPY* , *asleep* , *sleeping* , *sleepy*
-65 »ÒÚÂËÍ‡        *hysterics* , *hysteric* , *HYSTERIC* , *HYSTERICS* , =:OO
-66 ÕËÌ‰Áˇ          *NINJA* , *ninja* , [:|] , |-) , :NINJA:
-67 œˇÚÌËˆ‡         *WASSUP* , *SUP* , *MAMBA* , :MAMBA: , *wassup* , *sup* , *mamba* 
-68 " Ó‚˚ˇ˛ ‚ ÌÓÒÛ"         *nose*
-69 —‚ËÒÚ˛          *whistle* , :-" , *WHISTLE*
-70 ¬Î˛·ÎÂÌÌ‡ˇ      *LOVEGIRL*
-71 ¬Î˛·ÎÂÌÌ˚È           *LOVEMAN* , *loveman* , :IN LOVE:
-72 "¬ ˝ÍÒÚ‡ÁÂ"          *man_in_love*
-73 "√ˇÁÌ˚Â Ï˚ÒÎË¯ÍË"   ]:-) , }:-) , ]:) , }:) , >:-) , >:)
-74 ∆ÓÔ‡             (_|_) , (_I_) , (_._) 
-75 «‡ÒÚÂÎËÎÒˇ          *russian roulette* , *SHOT* , *shot*
-76 ¬ËÍËÌ„               *viking* , *dwarf* , *DWARF*
-77 "”ÚÂÌÌËÈ ÍÓÙÂ"      *morning* , *COFFEE* , *coffe*
-78 œÓˆÂÎÛË              *KISSES* , *KISS4* , *Œ¡Õ»Ã¿≈“* , *kisses* , *kiss4*
-79 ’ËÚÂˆ          :-> , *:->* , :> , *ıËÚ˚È*
-80 ƒËÚ∏            *baby* , *varjaga*
-81 ◊ÂÂÔ           *skull* , *DEATH*, *death* , *SKULL* , 8-X , 8-x , :SKULL:
-82 ‘‡Í             *FUCK* , *fuck* , *FUCK YOU* , *FUCKOFF* , :FUCK:
-83 ‘Ë„‡            *figu* , *FIGA* , *figa* , :FIGA:
-85 –ÛÍ‡ÎËˆÓ        *facepalm* , :facepalm: , //_-) , -_\\
-86 «‡¯ÚÓÓÈ        *snoozer* , :snoozer: , *ZAWTOROJ*
-87 —ÛÔÂÏÂÌ        *superman* , :superman:
-88 œÓÔÍÓÌ         *popcorn* , :popcorn:
-89 …ÓÛ             *Yo* , :Yo: , *yu* , :yu:
-90 √‡Ì„ÒÚÂ        *vinsent* , :vinsent:
-91 œË¯Û            *write* , :write: , *WRITE*
+57 –ü–∞—Å–∏–±       *THANK* , *THANKS* , *thank* , *thanks*
+58 –ü–∞—Ä–¥–æ–Ω          *PARDON* , *pardon* , =] , :PARDON: , :pardon:
+59 "–ß–∏—Ç–∞–π..."      *LAW* , *RTFM* , *KICK* , *rtfm* , *law* , :RTFM:
+60 –ó–ª–æ—Ä–∞–¥–Ω—ã–π       *SPITEFUL* , *spiteful*
+61 –¢–∞—Ä–∑–∞–Ω—é         *SHOUT*, *shout*
+62 "–í–∞–π —Å—Ç—Ä–∞–∞—à–Ω–æ"  *SCARE* , *SCARED* , *scare* , *scared* , *wassat*
+63 "–©–∞ –±–ª—é–≤–∞–Ω—É"    :-! , :! , :-~ , ;-~ , :(~ , +(~ , =(~ , :bad: , *SICK* , :-#
+64 –°–ø–ª—é            *lazy* , *LAZY* , *ASLEEP* , *SLEEPING* , *SLEEPY* , *asleep* , *sleeping* , *sleepy*
+65 –ò—Å—Ç–µ—Ä–∏–∫–∞        *hysterics* , *hysteric* , *HYSTERIC* , *HYSTERICS* , =:OO
+66 –ù–∏–Ω–¥–∑—è          *NINJA* , *ninja* , [:|] , |-) , :NINJA:
+67 –ü—è—Ç–Ω–∏—Ü–∞         *WASSUP* , *SUP* , *MAMBA* , :MAMBA: , *wassup* , *sup* , *mamba* 
+68 "–ö–æ–≤—ã—Ä—è—é –≤ –Ω–æ—Å—É"         *nose*
+69 –°–≤–∏—Å—Ç—é          *whistle* , :-" , *WHISTLE*
+70 –í–ª—é–±–ª–µ–Ω–Ω–∞—è      *LOVEGIRL*
+71 –í–ª—é–±–ª–µ–Ω–Ω—ã–π           *LOVEMAN* , *loveman* , :IN LOVE:
+72 "–í —ç–∫—Å—Ç–∞–∑–µ"          *man_in_love*
+73 "–ì—Ä—è–∑–Ω—ã–µ –º—ã—Å–ª–∏—à–∫–∏"   ]:-) , }:-) , ]:) , }:) , >:-) , >:)
+74 –ñ–æ–ø–∞             (_|_) , (_I_) , (_._) 
+75 –ó–∞—Å—Ç—Ä–µ–ª–∏–ª—Å—è          *russian roulette* , *SHOT* , *shot*
+76 –í–∏–∫–∏–Ω–≥               *viking* , *dwarf* , *DWARF*
+77 "–£—Ç—Ä–µ–Ω–Ω–∏–π –∫–æ—Ñ–µ"      *morning* , *COFFEE* , *coffe*
+78 –ü–æ—Ü–µ–ª—É–∏              *KISSES* , *KISS4* , *–û–ë–ù–ò–ú–ê–ï–¢* , *kisses* , *kiss4*
+79 –•–∏—Ç—Ä–µ—Ü          :-> , *:->* , :> , *—Ö–∏—Ç—Ä—ã–π*
+80 –®–æ–∫–æ–ª–∞–¥–∫–∞       *chocolate* , *sweet*
+81 –ß–µ—Ä–µ–ø           *skull* , *DEATH*, *death* , *SKULL* , 8-X , 8-x , :SKULL:
+82 –§–∞–∫             *FUCK* , *fuck* , *FUCK YOU* , *FUCKOFF* , :FUCK:
+83 –§–∏–≥–∞            *figu* , *FIGA* , *figa* , :FIGA:
+85 –†—É–∫–∞–ª–∏—Ü–æ        *facepalm* , :facepalm: , //_-) , -_\\
+86 –ó–∞—à—Ç–æ—Ä–æ–π        *snoozer* , :snoozer: , *ZAWTOROJ*
+87 –°—É–ø–µ—Ä–º–µ–Ω        *superman* , :superman:
+88 –ü–æ–ø–∫–æ—Ä–Ω         *popcorn* , :popcorn:
+89 –ô–æ—É             *Yo* , :Yo: , *yu* , :yu:
+90 –ì–∞–Ω–≥—Å—Ç–µ—Ä        *vinsent* , :vinsent:
+91 –ü–∏—à—É            *write* , :write: , *WRITE*
