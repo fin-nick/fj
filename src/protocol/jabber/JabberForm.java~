@@ -72,7 +72,7 @@ public class JabberForm implements CommandListener {
     public void show() {
         if (JabberForm.TYPE_NEW_ACCOUNT_DOMAIN == type) {
             form.addString(ResourceBundle.getString("new jabber-account"));
-            form.addTextField(0, "domain", "jabberon.ru", 50, TextField.ANY);
+            form.addTextField(0, "domain", "jabga.ru", 50, TextField.ANY);
         } else {
             form.addString(ResourceBundle.getString("wait"));
         }
